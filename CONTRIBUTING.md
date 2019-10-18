@@ -1,8 +1,4 @@
-# Thanks for stopping by, friend
-
-This is a fun project I started October 8th, 2019, on my train ride into school. As a new Rubyist and someone passionate about Open Source Software, I thought this would be a great way to teach basic Ruby concepts and promote open source contributions.
-
-## RULES
+# Contribution Guidelines
 
 - If you want to add something, keep it generally PG-13. I love accepting pull requests but if it's something vulgar I will slap it down. Same thing goes for generally unkind things. Basically, if you have to wonder if it's too edgy, it probably is. This is an inclusive and safe environment and if you don't like that for whatever reason, go make your own gem.
 
